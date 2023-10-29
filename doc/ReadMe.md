@@ -1,1 +1,1 @@
-
+The Data.xlsx file and data.csv have the same purpose of finding the make, model, type, year, engine type, color, door and transmission for a vehicle. The Data.xlsx file is filtered and the data.csv is not.
